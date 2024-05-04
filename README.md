@@ -7,6 +7,8 @@ This project conducts an analysis of the Delhi Metro system using data about its
 The code reads data from a CSV file containing information about Delhi Metro stations, including their names, distances from the start, lines, opening dates, layouts, and geographical coordinates (latitude and longitude). It preprocesses the data, performs exploratory data analysis (EDA), and creates visualizations to analyze different aspects of the Delhi Metro system.
 
 ## Usage
+To explore the complete Jupyter notebook containing all maps and graphs, visit:
+https://nbviewer.org/github/vidurAgg22/Delhi_Metro_Analysis/blob/main/final%20delhi%20metro%20analysis.ipynb
 
 1. Place the CSV file containing Delhi Metro station data in the same directory as the code.
 2. Run the provided code in a Python environment that supports the necessary libraries.
@@ -43,5 +45,4 @@ The analysis includes the following components:
 
 This project is licensed under the MIT License.
 
-To explore the complete Jupyter notebook containing all maps and graphs, visit:
-https://nbviewer.org/github/vidurAgg22/Delhi_Metro_Analysis/blob/main/final%20delhi%20metro%20analysis.ipynb
+
