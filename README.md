@@ -15,10 +15,10 @@ The code reads data from a CSV file containing information about Delhi Metro sta
 
 ## File Description
 
-- `delhi_metro_analysis.ipynb`: Jupyter notebook containing the code for analyzing the Delhi Metro system.
+- `final delhi metro analysis.ipynb`: Jupyter notebook containing the code for analyzing the Delhi Metro system.
 - `README.md`: This file providing an overview of the project.
 - `delhimetro.csv`: CSV file containing data about Delhi Metro stations.
-- `requirements.txt`: Text file listing the required Python libraries and their versions.
+
 
 ## Requirements
 
@@ -42,12 +42,6 @@ The analysis includes the following components:
 ## License
 
 This project is licensed under the MIT License.
-
-
-
-
-
-
 
 To explore the complete Jupyter notebook containing all maps and graphs, visit:
 https://nbviewer.org/github/vidurAgg22/Delhi_Metro_Analysis/blob/main/final%20delhi%20metro%20analysis.ipynb
